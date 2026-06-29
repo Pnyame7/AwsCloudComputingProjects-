@@ -1,2 +1,2 @@
 # AwsCloudComputingProjects-
-Contains cloud computing beginner projects
+Contains cloud computing projects
